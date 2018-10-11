@@ -1,6 +1,7 @@
 .gradle
 /build/
 out/
+lib/
 gradle-app.setting
 .gradletasknamecache
 .idea/
