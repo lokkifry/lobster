@@ -6,3 +6,4 @@ gradle-app.setting
 .idea/
 cmake-build-debug/
 .idea_modules/
+gradlew.bat
