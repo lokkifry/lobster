@@ -1,7 +1,5 @@
 package net.alexsk.lobster;
 
-import org.slf4j.ext.XLogger;
-
 import javax.inject.Inject;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
